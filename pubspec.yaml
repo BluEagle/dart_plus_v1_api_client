@@ -1,0 +1,8 @@
+name: plus_v1_api_client
+version: 0.0.1
+description: Auto-generated client library for accessing the plus v1 API
+homepage: https://github.com/dart-gde/discovery_api_dart_client_generator
+author: Gerwin Sturm (scarygami@gmail.com)
+
+dependencies:
+  google_oauth2_client: any
